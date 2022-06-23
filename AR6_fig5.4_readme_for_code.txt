@@ -1,0 +1,26 @@
+##########################################################################
+# ---------------------------------------------------------------------------------------------------------------------
+# This is [insert software name (e.g., Python)]* code to produce IPCC AR6 WGI Figure/s [insert figure name/s, please delete if the code is not separated by figure] *
+# Creator: Naveen Chandra, Prabir K. Patra, Japan Agency for Marine-Earth Science and Technology (JAMSTEC), Yokohama, Japan 
+# Contact: Naveen Chandra, Prabir K. Patra
+# Last updated on: March 10th, 2021
+# --------------------------------------------------------------------------------------------------------------------
+#
+# - Code functionality: Time series and growth rates of 3 major anthopogenically produced GHGs
+# - Input data: Chapter 2, CSIRO, SCRIPPS CO2 programme, NOAA CCGG
+# - Output variables: [How are the variables output by the script related to the figure, complete only if the code is directly related to a figure. Example: “The code plots the figure as in the report.” or “The code provide the dataset to generate FigureX, panel b”]
+#
+# ----------------------------------------------------------------------------------------------------
+# Information on  the software used
+# - Software Version: Python3.9
+# - Landing page to access the software: [if possible provide a DOI]* 
+# - Operating System: MacOS, 2021
+# - Environment required to compile and run: MacOS/Python
+#  ----------------------------------------------------------------------------------------------------
+#
+#  License: [insert here. Default license: Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/)]*
+#
+# ----------------------------------------------------------------------------------------------------
+# How to cite:
+# When citing this code, please include both the code citation and the following citation for the related report component:
+########################################################################
